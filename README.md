@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainathss97
 - 👀 I’m interested in Django and Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Machine Learning Projects
 - 💞️ I’m looking to collaborate on any Django Projects
 - 📫 How to reach me gmail: sainath.ss97@gmail.com 
 
